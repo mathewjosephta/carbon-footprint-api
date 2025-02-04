@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/carbon-footprint-api/static/js/main.0cf83109.js",
+    "index.html": "/carbon-footprint-api/index.html",
+    "main.0cf83109.js.map": "/carbon-footprint-api/static/js/main.0cf83109.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0cf83109.js"
+  ]
+}
